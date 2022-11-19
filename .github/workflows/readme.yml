@@ -1,0 +1,38 @@
+env:
+  BECODER_SINCE_DATE: 1
+  BECODER_SINCE_MONTH: 1
+  BECODER_SINCE_YEAR: 2020
+  STUDY_HOURS_IN_A_DAY: 3
+
+name: Readme
+
+on:
+  push:
+    branches:
+      - master
+
+  schedule:
+    - cron: "*/10 * * * *"
+
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - shell: sh
+        run: |
+          /usr/bin/env python3 -m Hsbmaulana
+      - shell: sh
+        run: |
+          emoji=$(/usr/bin/env python3 -c "from Hsbmaulana.src.Emoji import Emoji; print (str (Emoji ()))")
+          git config --local user.name "hsbmaulana"
+          git config --local user.email "hsbmaulana.iso@protonmail.com"
+          git commit -a -m "$emoji"
+      - uses: ad-m/github-push-action@master
+        with:
+          force: true
+          directory: "."
+          github_token: ${{ secrets.GITHUB_TOKEN }}

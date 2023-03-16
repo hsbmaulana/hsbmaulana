@@ -1,4 +1,4 @@
-<h3 align="center">Hi 🤓 I'm Hasby Maulana...</h3>
+<h3 align="center">Hi 😍 I'm Hasby Maulana...</h3>
 I have been studying and experiencing computer science calculated for 3510 hours, still countdown to 10000 hours of law to try harder achieve the next level. As then i always try to collaborate or contribute to any open repositories.
 <br />
 How to reach me? Mail to <b><a href="mailto:hsbmaulana.iso@gmail.com">hsbmaulana.iso@gmail.com</a></b> / <b><a href="mailto:hsbmaulana.iso@protonmail.com">hsbmaulana.iso@protonmail.com</a> / <a href="https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x455f81c7972dd89dbba247480438236e6829d2d2">keyserver.ubuntu.com</a></b></li>.

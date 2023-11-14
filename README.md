@@ -1,7 +1,7 @@
-<h3 align="center">Hi 🤡 it's me Hasby Maulana...</h3>
+<h3 align="center">Hi 😙 it's me Hasby Maulana...</h3>
 I am a technology enthusiast who is open to all fields related to technology also energetic to tackle network, devops, cyber security, and the world of Industry 5.0. With proven track record of successfully handle various projects, i bring a wealth of experience and expertise to any team. As an enthusiast i've been practicing computer science calculated for 4239 hours and still countdown to 10000 hours of law ⏳ to try harder achieve to the next level. In addition, i am a financial growth observer, trading, investing, and entrepreneurship. My skills encompass communication in assertive style skill, self-direction skill, interpersonal/collaborative-contributive skill, technical skills by optimizing technopreneurship products to be high-quality, fast, and secure. That is in the scope of infrastructure incident monitoring/reporting (Unix Sysadmin), data-driven (ETL-crawling/scraping), software development life cycle (event-listener driven, domain design driven, refactor, RESTful API, GraphQL), automation (test-driven development, CI/CD/CD, isolation, orchestation). <br />
 🇮🇩 I come from Indonesia. <br />
-🤝 I provide services by developing Company Profile, Helpdesk Ticketing, E-Commerce, Enterprise Resource Planning, Data Crawling / Data Scraping, as well as automated testing (SIT, UAT), security testing, and performance testing. <br />
+🤝 I work for <a href="https://github.com/tripteki">Trip Teknologi</a> to provide services by developing Company Profile, Helpdesk Ticketing, E-Commerce, Enterprise Resource Planning, Data Crawling / Data Scraping, as well as automated testing (SIT, UAT), security testing, and performance testing. <br />
 👯 I open and am looking for partners to collaborate and contribute to any innovative open source project repositories. Ask me anything on <a href="https://github.com/hsbmaulana/hsbmaulana/issues">issue page</a>. <br />
 💬 How to reach me? Mail to <b><a href="mailto:hsbmaulana.iso@gmail.com">✉ hsbmaulana.iso@gmail.com</a></b> / <b><a href="mailto:hsbmaulana.iso@protonmail.com">📮 hsbmaulana.iso@protonmail.com</a> / <a href="https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x455f81c7972dd89dbba247480438236e6829d2d2">🔑 keyserver.ubuntu.com</a></b></li>.
 
@@ -151,15 +151,8 @@ I am a technology enthusiast who is open to all fields related to technology als
   </tr>
   <tr>
     <td>10</td>
-    <td>The project is a <code>backend library</code> designed to provide starterpack drivers, repositories, helpers, endpoints of admin management on API level with no intervention to codebase and keep clean for Laravel codebase.<br/><img src="https://skillicons.dev/icons?i=php,symfony,laravel" /></td>
+    <td>The project is a <code>backend library</code> designed to provide starterpack drivers, helpers, repositories, endpoints of admin management for Laravel codebase.<br/><img src="https://skillicons.dev/icons?i=php,symfony,laravel" /></td>
     <td>
-      <a href="https://packagist.org/packages/tripteki/laravelphp-notification">Notification</a><br />
-      <a href="https://packagist.org/packages/tripteki/laravelphp-setting">Setting</a><br />
-      <a href="https://packagist.org/packages/tripteki/laravelphp-setting-profile">Profile</a><br />
-      <a href="https://packagist.org/packages/tripteki/laravelphp-setting-locale">Localization</a><br />
-      <a href="https://packagist.org/packages/tripteki/laravelphp-setting-menu">Menu</a><br />
-      <a href="https://packagist.org/packages/tripteki/laravelphp-acl">ACL</a><br />
-      <a href="https://packagist.org/packages/tripteki/laravelphp-log">Log</a><br />
       <a href="https://packagist.org/packages/tripteki/laravelphp-adminer">Adminer</a><br />
     </td>
     <td>

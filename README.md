@@ -114,7 +114,7 @@ I am a technology enthusiast who is open to all fields related to technology als
       <a href="https://github.com/tripteki/laravel.php/tree/main/bin">Laravel</a><br />
     </td>
     <td>
-      <a href="https://www.linkedin.com/company/lobunta-kencana-raya-pt">PT Lobunta Kencana Raya</a>
+      <a href="https://github.com/tripteki">Trip Teknologi</a>
     </td>
     <td><code>05/2022</code></code></td>
     <td>
@@ -128,7 +128,7 @@ I am a technology enthusiast who is open to all fields related to technology als
       <a href="https://github.com/tripteki/nest.ts/tree/main/bin">Nest</a><br />
     </td>
     <td>
-      <a href="https://www.linkedin.com/company/lobunta-kencana-raya-pt">PT Lobunta Kencana Raya</a>
+      <a href="https://github.com/tripteki">Trip Teknologi</a>
     </td>
     <td><code>05/2022</code></code></td>
     <td>
@@ -142,7 +142,7 @@ I am a technology enthusiast who is open to all fields related to technology als
       <a href="https://packagist.org/packages/tripteki/laravelphp-supervisor">Supervisor</a><br />
     </td>
     <td>
-      <a href="https://www.linkedin.com/company/lobunta-kencana-raya-pt">PT Lobunta Kencana Raya</a>
+      <a href="https://github.com/tripteki">Trip Teknologi</a>
     </td>
     <td><code>06/2022</code><br/>to<br/><code>07/2022</code></td>
     <td>
@@ -156,7 +156,7 @@ I am a technology enthusiast who is open to all fields related to technology als
       <a href="https://packagist.org/packages/tripteki/laravelphp-adminer">Adminer</a><br />
     </td>
     <td>
-      <a href="https://www.linkedin.com/company/lobunta-kencana-raya-pt">PT Lobunta Kencana Raya</a>
+      <a href="https://github.com/tripteki">Trip Teknologi</a>
     </td>
     <td><code>08/2022</code><br/>to<br/><code>12/2022</code></td>
     <td>
@@ -170,7 +170,7 @@ I am a technology enthusiast who is open to all fields related to technology als
       <a href="https://github.com/marketplace/actions/continuous-delivery-and-continuous-deployment-package-convention">CD-Package</a><br />
     </td>
     <td>
-      <a href="https://www.linkedin.com/company/lobunta-kencana-raya-pt">PT Lobunta Kencana Raya</a>
+      <a href="https://github.com/tripteki">Trip Teknologi</a>
     </td>
     <td><code>12/2022</code></code></td>
     <td>
@@ -184,7 +184,7 @@ I am a technology enthusiast who is open to all fields related to technology als
       <a href="https://github.com/marketplace/actions/continuous-delivery-and-continuous-deployment-server-convention">CD-Server</a><br />
     </td>
     <td>
-      <a href="https://www.linkedin.com/company/lobunta-kencana-raya-pt">PT Lobunta Kencana Raya</a>
+      <a href="https://github.com/tripteki">Trip Teknologi</a>
     </td>
     <td><code>12/2022</code></code></td>
     <td>

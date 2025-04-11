@@ -1,8 +1,10 @@
-<h3 align="center">Hi 😰 it's me Hasby Maulana...</h3>
-I'm a technology enthusiast currently focused on SRE and DevOps, with a growing interest to tackle DevSecOps, Cyber Security, and Penetration Test. I have a strong track record of managing projects and optimizing systems to be secure and fast. My experience spans infrastructure monitoring, data-driven processes, and automation (CI/CD, test-driven development), and I’m passionate about improving security in every step of the development lifecycle. In addition to technology, I’m passionate about entrepreneurship, always exploring new opportunities and thinking strategically to build innovative solutions. I’m also interested in financial growth, trading, and investing, which influences how I approach both business and technology. I’m driven to learn and collaborate, aiming to deliver high-quality products and contribute to the success of any team. <br />
-🇮🇩 I come from Indonesia. <br />
-🤝 I work for <a href="https://github.com/tripteki">Trip Teknologi</a> to provide services by developing Company Profile, Helpdesk Ticketing, E-Commerce, Enterprise Resource Planning, Data Crawling / Data Scraping, as well as automated testing (SIT, UAT), security testing, and performance testing. <br />
-👯 I open and am looking for partners to collaborate and contribute to any innovative open source project repositories. Ask me anything on <a href="https://github.com/hsbmaulana/hsbmaulana/issues">issue page</a>. <br />
+<h3 align="center">Hi 🤑 it's me Hasby Maulana...</h3>
+I'm a technology enthusiast currently focused building and optimizing scalable system services as a Software Engineer, with a growing interest to tackle Web3 and DevSecOps. With over 2 years of Engineering and 1 year in DevOps fields experience. I’m passionate about crafting high-performance and decentralized system architecture. My sharpest knives include Nest.js, Golang, Rust.
+<br />
+<br />
+Beyond tech, I’m also passionate about entrepreneurship and enjoy exploring new opportunities to build innovative solutions. I have a strong interest in financial growth, trading, and investing, which shape how I approach both business and technology. I'm eager to learn, collaborate with others, and contribute to building high-quality products.
+<br />
+<br />
 💬 How to reach me? Mail to <b><a href="mailto:hsbmaulana.iso@gmail.com">✉ hsbmaulana.iso@gmail.com</a></b> / <b><a href="mailto:hsbmaulana.iso@protonmail.com">📮 hsbmaulana.iso@protonmail.com</a> / <a href="https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x455f81c7972dd89dbba247480438236e6829d2d2">🔑 keyserver.ubuntu.com</a></b></li>.
 
 <hr />

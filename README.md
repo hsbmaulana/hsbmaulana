@@ -1,4 +1,4 @@
-<h3 align="center">Hi 🤟 it's me Hasby Maulana...</h3>
+<h3 align="center">Hi 😍 it's me Hasby Maulana...</h3>
 I'm a technology enthusiast currently focused building and optimizing scalable system services as a Software Engineer, with a growing interest to tackle Web3 and DevSecOps. With over 2 years of Engineering and 1 year in DevOps fields experience. I’m passionate about crafting high-performance and decentralized system architecture. My sharpest knives include Nest.js, Golang, Rust.
 <br />
 <br />

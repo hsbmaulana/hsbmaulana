@@ -1,5 +1,5 @@
 <h3 align="center">Hi 🤥 it's me Hasby Maulana...</h3>
-I'm a technology enthusiast currently focused building and optimizing scalable system services as a Software Engineer, with a growing interest to tackle Web3 and DevSecOps. With over 2 years of Engineering and 1 year in DevOps fields experience. I’m passionate about crafting high-performance and decentralized system architecture. My sharpest knives include Nest.js, Golang, Rust.
+Versatile Full Stack Web3 Engineer and Assistant Team Lead driven by a passion for architecting high-performance decentralized systems and secure cloud infrastructure. Leveraging over 3 years of engineering expertise across Laravel, Go (Gin), and Rust (Axum) with a proven ability to mentor cross-functional teams and accelerate product delivery. Adept at bridging complex technical execution with strategic entrepreneurial growth to deliver scalable, high-impact B2B, SaaS, and fintech solutions.
 <br />
 <br />
 Beyond tech, I’m also passionate about entrepreneurship and enjoy exploring new opportunities to build innovative solutions. I have a strong interest in financial growth, trading, and investing, which shape how I approach both business and technology. I'm eager to learn, collaborate with others, and contribute to building high-quality products.

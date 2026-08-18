@@ -1,4 +1,4 @@
-<h3 align="center">Hi 🙄 it's me Hasby Maulana...</h3>
+<h3 align="center">Hi 🤹 it's me Hasby Maulana...</h3>
 Versatile Full Stack Web3 Engineer and Assistant Team Lead driven by a passion for architecting high-performance decentralized systems and secure cloud infrastructure. Leveraging over 3 years of engineering expertise across Laravel, Go (Gin), and Rust (Axum) with a proven ability to mentor cross-functional teams and accelerate product delivery. Adept at bridging complex technical execution with strategic entrepreneurial growth to deliver scalable, high-impact B2B, SaaS, and fintech solutions.
 <br />
 <br />
